@@ -10,5 +10,5 @@ I tried IBM Watson as well for this purpose but it had few error ( version relat
 
 Dataset consists of 200 comma separated rows of first name, last name, country and phone number. It was generated using random name, country and phone numbers generators online but in realtime project we can use Faker package in python to do this. 
 
-I am also in the process on figuring out my own PII detection algorithm. I am on it with my full heart and will try to complete and present ASAP ( within 1-2 days )
+I am also in the process on figuring out my own PII detection algorithm. I am on it with my full motivation will try to complete and present ASAP ( within 1-2 days )
 I am exploring Gensim for the same : https://pypi.org/project/gensim/
