@@ -12,5 +12,5 @@ Dataset consists of 200 comma separated rows of first name, last name, country a
 
 Edit : 24.05.2023
 
-I tried PII detection with Binary Classification approach wherein I trained the dataset with PII rows marked as 1 and 0 otherwise and tested against the test set to check for the accuracy.
+I tried PII detection with Binary Classification approach wherein I trained a new dataset (PII_Detection_With_Classifier.csv) with PII rows marked as 1 and 0 otherwise and tested against the test set to check for the accuracy of the model.
 
